@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+export(projM)
+export(wpvalue)
+importFrom("foreach","foreach","%dopar%")

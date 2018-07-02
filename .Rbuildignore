@@ -1,0 +1,4 @@
+^.*\.Rproj$
+^README\.md$
+^.*\.tar\.gz$
+^\.Rproj\.user$
